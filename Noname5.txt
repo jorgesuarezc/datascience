@@ -16,12 +16,4 @@ sit adicional 420
 5873* CNAE09 DE CCC DEBE SER 79XX
 No hemos podido hacer la declaración responsable de vinculación a Turismo debido a que nuestro CNAE es 5520 y la aplicación Red Directo nos exigía ser 79xx
 Nos han indicado hacerlo a través de este servicio.
-Para el mes de Julio necesitamos luego comunicar el valor 420 del campo de Tipo Situación Adicional del trabajador afectado. Solicito que lo modifiquen directamente ya que el plazo parece que acababa ayer 30 de Agosto.
-El trabajador es NAF 331065787655 --- Identificador: 6-0Y6091238R
-
-
-ERTE de Roberto
-Situacion de Julio
-Calculo de TC2
-
-roxana@romeroasesoria.net
+Para el mes de
