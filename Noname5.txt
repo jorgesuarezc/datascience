@@ -1,28 +1,22 @@
 Salario diario x dias x 12 / 365:   
 
 Fecha de inicio:  01/07/2020
-Fecha de finalizaci髇: 31/08/2020
-N鷐ero de d韆s: 62
-N鷐ero de meses: 2
+Fecha de finalizaci贸n: 31/08/2020
+N煤mero de d铆as: 62
+N煤mero de meses: 2
 Salario bruto: Mensual
 Importe: 1269,43
 Salario diario: 41,73
 
-Buenos dias Noel
-Estos son los datos para acceder al Servidor:
-Servidor.....85.152.34.147
-Cuenta......VPN_5399
-Contrase馻.....Z25-_w85zt9K
-Secreto....XM_3b4*exmK_
 
 
 017
 sit adicional 420
 
 5873* CNAE09 DE CCC DEBE SER 79XX
-No hemos podido hacer la declaraci髇 responsable de vinculaci髇 a Turismo debido a que nuestro CNAE es 5520 y la aplicaci髇 Red Directo nos exig韆 ser 79xx
-Nos han indicado hacerlo a trav閟 de este servicio.
-Para el mes de Julio necesitamos luego comunicar el valor 420 del campo de Tipo Situaci髇 Adicional del trabajador afectado. Solicito que lo modifiquen directamente ya que el plazo parece que acababa ayer 30 de Agosto.
+No hemos podido hacer la declaraci贸n responsable de vinculaci贸n a Turismo debido a que nuestro CNAE es 5520 y la aplicaci贸n Red Directo nos exig铆a ser 79xx
+Nos han indicado hacerlo a trav茅s de este servicio.
+Para el mes de Julio necesitamos luego comunicar el valor 420 del campo de Tipo Situaci贸n Adicional del trabajador afectado. Solicito que lo modifiquen directamente ya que el plazo parece que acababa ayer 30 de Agosto.
 El trabajador es NAF 331065787655 --- Identificador: 6-0Y6091238R
 
 
